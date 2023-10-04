@@ -893,3 +893,435 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.10.04-11.06.38:865][  0]LogAssetRegistry: Asset discovery search completed in 3.5285 seconds
 [2023.10.04-11.06.38:869][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.10.04-11.06.38:870][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.04-11.10.25:450][996]Cmd: EDIT PASTE
+[2023.10.04-11.10.36:851][680]Cmd: TRANSACTION UNDO
+[2023.10.04-11.10.36:852][680]LogEditorTransaction: Undo Clicking on Actors
+[2023.10.04-11.10.36:862][680]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.04-11.10.38:397][761]Cmd: TRANSACTION UNDO
+[2023.10.04-11.10.38:397][761]LogEditorTransaction: Undo Paste
+[2023.10.04-11.13.50:252][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.10.04-11.13.53:093][768]Cmd: DELETE
+[2023.10.04-11.13.53:094][768]Cmd: ACTOR DELETE
+[2023.10.04-11.13.53:100][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.04-11.13.53:105][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.04-11.13.53:105][768]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.10.04-11.13.59:536][154]Cmd: DELETE
+[2023.10.04-11.13.59:536][154]Cmd: ACTOR DELETE
+[2023.10.04-11.13.59:537][154]LogEditorActor: Deleted Actor: AtmosphericFog
+[2023.10.04-11.13.59:539][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.10.04-11.13.59:540][154]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2023.10.04-11.14.03:164][371]LogActorFactory: Actor Factory created Cube
+[2023.10.04-11.14.03:507][391]LogActorFactory: Actor Factory created Cube
+[2023.10.04-11.14.53:416][309]Cmd: EDIT COPY
+[2023.10.04-11.14.55:699][446]Cmd: EDIT PASTE
+[2023.10.04-11.14.59:778][690]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.04-11.16.05:096][305]Cmd: EDIT COPY
+[2023.10.04-11.16.07:748][464]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2023.10.04-11.16.08:808][526]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.10.04-11.16.22:355][337]Cmd: EDIT COPY
+[2023.10.04-11.16.22:989][375]Cmd: EDIT PASTE
+[2023.10.04-11.16.42:026][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.10.04-11.16.43:122][389]Cmd: EDIT COPY
+[2023.10.04-11.16.43:572][416]Cmd: EDIT PASTE
+[2023.10.04-11.17.56:146][ 13]Cmd: EDIT COPY
+[2023.10.04-11.17.57:147][ 73]Cmd: EDIT PASTE
+[2023.10.04-11.18.14:090][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.10.04-11.18.15:079][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2023.10.04-11.18.15:889][929]Cmd: EDIT COPY
+[2023.10.04-11.18.17:056][999]Cmd: EDIT PASTE
+[2023.10.04-11.18.55:683][308]Cmd: EDIT COPY
+[2023.10.04-11.18.56:183][338]Cmd: EDIT PASTE
+[2023.10.04-11.19.49:804][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2023.10.04-11.19.50:420][300]Cmd: EDIT COPY
+[2023.10.04-11.19.51:454][362]Cmd: EDIT PASTE
+[2023.10.04-11.20.18:935][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.10.04-11.20.32:093][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2023.10.04-11.20.40:310][248]Cmd: EDIT COPY
+[2023.10.04-11.20.40:911][284]Cmd: EDIT PASTE
+[2023.10.04-11.21.23:409][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2023.10.04-11.21.30:426][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2023.10.04-11.21.32:147][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.10.04-11.21.56:583][560]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.04-11.22.08:402][976]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.04-11.22.08:423][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.04-11.22.08:427][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.04-11.22.08:439][976]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/MapD2185ED3402C66D2CA680798F01E7BB2.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap'
+[2023.10.04-11.22.08:451][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_BuiltData" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset" SILENT=true
+[2023.10.04-11.22.08:461][976]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/Map_BuiltData0993957847D18BACEE3B1CBF2389ED2B.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset'
+[2023.10.04-11.22.08:468][976]LogFileHelpers: Saving map 'Map' took 0.064
+[2023.10.04-11.22.08:472][976]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-11.22.08:472][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map_BuiltData.Map_BuiltData
+[2023.10.04-11.22.08:472][976]LogContentValidation: Display: Validating World /Game/Map.Map
+[2023.10.04-11.22.10:741][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.04-11.22.10:743][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.04-11.22.10:749][111]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/Map90F1416A45325351FE726FBC37F22937.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap'
+[2023.10.04-11.22.10:752][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_BuiltData" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset" SILENT=true
+[2023.10.04-11.22.10:760][111]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/Map_BuiltDataC9324CB8418DA1F61AC6DAAB5B3BA842.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset'
+[2023.10.04-11.22.10:771][111]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-11.22.10:771][111]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map_BuiltData.Map_BuiltData
+[2023.10.04-11.22.10:771][111]LogContentValidation: Display: Validating World /Game/Map.Map
+[2023.10.04-11.22.15:066][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.10.04-11.22.17:584][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.10.04-11.22.24:449][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2023.10.04-11.22.47:669][660]LogSlate: Window 'Save Asset As' being destroyed
+[2023.10.04-11.22.49:315][756]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BlueMaterial.BlueMaterial
+[2023.10.04-11.22.49:318][756]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C51F5CAC84C0FA11023042DE02558B8D3EEE6399), compiling. 
+[2023.10.04-11.22.49:338][756]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.10.04-11.22.49:353][756]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.22.49:357][756]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.10.04-11.22.49:437][756]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.10.04-11.22.49:569][756]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CAFA00F2354E9A921A44404A6805E889DD707673), compiling. 
+[2023.10.04-11.22.49:578][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.22.49:584][756]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.04-11.22.50:662][801]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.04-11.22.50:662][801]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.10.04-11.22.50:662][801]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 2 distinct outputs (50.00%)
+[2023.10.04-11.22.50:662][801]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.10.04-11.22.50:662][801]LogShaderCompilers: Display: ================================================
+[2023.10.04-11.22.50:761][807]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.22.50:830][811]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.22.50:830][811]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.22.50:830][811]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.22.50:830][811]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.23.07:663][815]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 221292BC8E8D91E3D22B5160643FDED3A977D152), compiling. 
+[2023.10.04-11.23.07:667][815]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.23.07:699][817]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.23.07:699][817]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.23.07:699][817]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.23.07:699][817]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.23.10:774][  1]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 20B1AC43D1FE197D2223A71309AE65A53E7E09F6), compiling. 
+[2023.10.04-11.23.10:775][  1]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.23.10:816][  3]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.23.10:816][  3]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.23.10:816][  3]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.23.10:816][  3]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.24.46:630][776]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4B8288805FEC0CC17A656623B03792D965D84359), compiling. 
+[2023.10.04-11.24.46:632][776]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 585289516881CD7CE07E7DDCED71DF2EA8F1FC21), compiling. 
+[2023.10.04-11.24.46:632][776]LogMaterial: Warning: [AssetLog] /Engine/Transient.BlueMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.10.04-11.24.46:632][776]LogMaterial: Display: 	(Node Desaturation) Missing Desaturation input
+[2023.10.04-11.24.46:698][780]MaterialEditorStats: Error: [SM5] (Node Desaturation) Missing Desaturation input
+[2023.10.04-11.24.46:714][780]LogSlate: Took 0.004810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.10.04-11.24.48:560][891]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F5A87B2588910961548B1D02EC8DC25CCF1C737B), compiling. 
+[2023.10.04-11.24.48:561][891]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.24.48:593][893]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.24.48:593][893]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.24.48:593][893]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.24.48:593][893]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.25.00:855][621]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AB5011E23A5967ED6843921E7FD61B826937EC26), compiling. 
+[2023.10.04-11.25.00:858][621]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AA797362200BC0D4A9C358B4F6E47D83AA6A21BD), compiling. 
+[2023.10.04-11.25.00:858][621]LogMaterial: Warning: [AssetLog] /Engine/Transient.BlueMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.10.04-11.25.00:858][621]LogMaterial: Display: 	Function LinearTosRGB: Missing function input 'Linear'
+[2023.10.04-11.25.00:858][621]LogMaterial: Display: 	Function LinearTosRGB: (Node If) If input A must be of type float.
+[2023.10.04-11.25.00:861][621]MaterialEditorStats: Error: [SM5] Function LinearTosRGB: Missing function input 'Linear'
+[2023.10.04-11.25.00:861][621]MaterialEditorStats: Error: [SM5] Function LinearTosRGB: (Node If) If input A must be of type float.
+[2023.10.04-11.25.00:885][622]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BF3EE015243C3936F2DD8E9A8AFC5AE8AEDE0D4), compiling. 
+[2023.10.04-11.25.00:896][623]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.25.00:897][623]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.25.03:233][761]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 83B04E9935F5B2AAAFC66924ED6BE43B6BA1A20F), compiling. 
+[2023.10.04-11.25.03:234][761]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.25.03:269][763]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.25.03:269][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.25.03:269][763]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.25.03:269][763]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.25.15:820][513]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5FDD0FE8ABAFCB19910AF9468B7E1CD7D4F8896E), compiling. 
+[2023.10.04-11.25.15:823][513]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.25.15:854][515]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.25.15:854][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.25.15:854][515]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.25.15:854][515]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.25.20:221][776]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DBC325102A7C94D6B9BCAC49A502BE83DA66EEE0), compiling. 
+[2023.10.04-11.25.20:223][776]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.25.20:230][777]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.25.20:247][778]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.25.20:881][801]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.25.26:193][ 90]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.10.04-11.25.26:193][ 90]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.10.04-11.25.26:193][ 90]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.25.26:193][ 90]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.18:637][161]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 58BBA47A88EDB13E1314DFD719D7E85C0845DC16), compiling. 
+[2023.10.04-11.28.18:638][161]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.18:664][162]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.04-11.28.18:664][162]LogShaderCompilers: Display: Total job queries 111, among them cache hits 75 (67.57%)
+[2023.10.04-11.28.18:664][162]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 18 distinct outputs (69.23%)
+[2023.10.04-11.28.18:664][162]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.10.04-11.28.18:664][162]LogShaderCompilers: Display: ================================================
+[2023.10.04-11.28.18:677][163]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.28.18:677][163]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.28.18:677][163]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.18:677][163]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.28:543][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.10.04-11.28.30:274][807]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2023.10.04-11.28.30:275][807]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 412D2EF9319D0034667264D44D9B406E54BE2C1F), compiling. 
+[2023.10.04-11.28.30:283][807]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2023.10.04-11.28.30:317][807]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8D9B36FD7B3364A91DA35FEA685D56CC3200F2D2), compiling. 
+[2023.10.04-11.28.30:318][807]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D9F6F3717CFC156B5E30DC0B3161D88494A0F812), compiling. 
+[2023.10.04-11.28.30:333][807]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.10.04-11.28.30:366][808]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.28.30:525][816]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.28.31:074][830]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.10.04-11.28.31:074][830]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.10.04-11.28.31:074][830]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.28.31:282][835]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.31:464][842]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.10.04-11.28.31:464][842]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.10.04-11.28.31:464][842]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.10.04-11.28.31:464][842]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.31:464][842]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.40:882][364]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 098C19CA70993BB820A9DDADA30718C867A24B1D), compiling. 
+[2023.10.04-11.28.40:883][364]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 01333BAFA674CC8A77133D5366C19EA9FF14990D), compiling. 
+[2023.10.04-11.28.40:885][364]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.40:911][366]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.40:928][367]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.10.04-11.28.40:928][367]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.10.04-11.28.40:928][367]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.40:928][367]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.43:070][494]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 95107EBA3872CCBFAD22FF9833F86865CF06890C), compiling. 
+[2023.10.04-11.28.43:070][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2489FBA42D4D1E792885EE72D6B803CC7A2B55B3), compiling. 
+[2023.10.04-11.28.43:073][494]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.43:082][495]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.28.43:094][496]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.28.43:711][521]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.43:845][529]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.10.04-11.28.43:845][529]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.10.04-11.28.43:845][529]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.43:845][529]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.45:600][633]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 266E49EE03981FD2C8B423D6D95C45FB9AA5C430), compiling. 
+[2023.10.04-11.28.45:601][633]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D3D60988F58DC4976C7C3512DCD65ADC1FB40243), compiling. 
+[2023.10.04-11.28.45:603][633]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.45:632][635]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.10.04-11.28.45:632][635]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.10.04-11.28.45:632][635]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.45:632][635]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.47:644][752]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B1851BEC59E8F65BCCBE84E9A07BFB51A7C07F07), compiling. 
+[2023.10.04-11.28.47:645][752]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 86BFA5811F54A7DC32DE9A25E377211CF84E81A6), compiling. 
+[2023.10.04-11.28.47:647][752]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.47:677][754]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.10.04-11.28.47:677][754]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.10.04-11.28.47:677][754]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.47:677][754]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.50:130][900]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5D4CB875A1CCE6BCB3A13A90949716F1FF9CB918), compiling. 
+[2023.10.04-11.28.50:131][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ABF56A9E5229413B7BB521A60C8C82ADA8E16B89), compiling. 
+[2023.10.04-11.28.50:133][900]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.50:163][902]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.10.04-11.28.50:163][902]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.10.04-11.28.50:163][902]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.50:163][902]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.51:865][  4]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5AEECA4561685ED7BF41CED693134C5CF4913E51), compiling. 
+[2023.10.04-11.28.51:866][  4]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A37F51DABB0E5CE4BA3D906C18A88C8FAFC7B783), compiling. 
+[2023.10.04-11.28.51:867][  4]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.04-11.28.51:873][  4]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.28.51:883][  5]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.51:903][  6]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.10.04-11.28.51:903][  6]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.10.04-11.28.51:903][  6]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.28.51:903][  6]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.28.53:923][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.10.04-11.30.11:179][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.10.04-11.30.18:886][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2023.10.04-11.30.21:968][554]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6121E54A9B86D6A4F3D695C48632F2C1B0AA71F2), compiling. 
+[2023.10.04-11.30.21:971][554]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.30.22:000][556]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.10.04-11.30.22:000][556]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.10.04-11.30.22:000][556]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.30.22:000][556]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.30.24:712][716]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AED00733FD775C37EC0A56680799C416488347DB), compiling. 
+[2023.10.04-11.30.24:715][716]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.04-11.30.24:722][717]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.30.24:738][718]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.30.24:739][718]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.10.04-11.30.25:493][748]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.30.25:543][751]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.10.04-11.30.25:543][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.10.04-11.30.25:543][751]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.30.25:543][751]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.04-11.30.30:027][ 17]LogMaterialEditor: Saving and Compiling material BlueMaterial
+[2023.10.04-11.30.30:201][ 17]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2B26E43E31069A766736117681B2E0A1202D5E5C), compiling. 
+[2023.10.04-11.30.30:218][ 17]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: AFD5DB3BA90BDE1CA5F7464345F59E7AC1FFC64B), compiling. 
+[2023.10.04-11.30.30:242][ 17]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.10.04-11.30.30:243][ 17]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.30.30:249][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.04-11.30.30:470][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.10.04-11.30.30:610][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueMaterial" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/BlueMaterial.uasset" SILENT=true
+[2023.10.04-11.30.30:615][ 17]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/BlueMaterial2B1789274F6E0121E5FD6F9CD9C7173E.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/BlueMaterial.uasset'
+[2023.10.04-11.30.30:626][ 17]AssetCheck: New page: Asset Save: BlueMaterial
+[2023.10.04-11.30.30:626][ 17]LogContentValidation: Display: Validating Material /Game/BlueMaterial.BlueMaterial
+[2023.10.04-11.30.30:626][ 17]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.10.04-11.30.30:626][ 17]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.10.04-11.30.30:626][ 17]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.30.30:626][ 17]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.04-11.30.45:499][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.04-11.30.45:502][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.04-11.30.45:508][907]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/Map4289866248D5AA4089FA31B92B5B853F.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap'
+[2023.10.04-11.30.45:511][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_BuiltData" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset" SILENT=true
+[2023.10.04-11.30.45:522][907]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/Map_BuiltData4372FAFA43BC10B18C49C9956BB15F3C.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset'
+[2023.10.04-11.30.45:539][907]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-11.30.45:539][907]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map_BuiltData.Map_BuiltData
+[2023.10.04-11.30.45:539][907]LogContentValidation: Display: Validating World /Game/Map.Map
+[2023.10.04-11.30.51:076][237]MapCheck: New page: Map Check
+[2023.10.04-11.30.51:086][237]LightingResults: New page: Lighting Build - 4 жовт. 2023 р., 17:30:51
+[2023.10.04-11.30.51:115][237]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.10.04-11.30.51:182][237]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.10.04-11.30.51:225][237]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.10.04-11.30.51:740][237]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.10.04-11.30.51:741][237]LogSwarmInterface: [TryOpenConnection] Local Process ID is 47364
+[2023.10.04-11.30.55:052][237]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.10.04-11.30.55:053][237]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.10.04-11.30.55:053][237]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.10.04-11.30.55:053][237]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.10.04-11.30.55:053][237]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.10.04-11.30.55:053][237]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.10.04-11.30.55:232][237]LogEditorBuildUtils: Build time 0:04
+[2023.10.04-11.30.55:261][238]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7497421CAAF1552ACB3BEAF8AC314B4D60CBC8EC), compiling. 
+[2023.10.04-11.30.55:264][238]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.10.04-11.30.55:264][238]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: B205C4B1C3530E0256395970C9885862F02871CA), compiling. 
+[2023.10.04-11.30.55:266][238]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.10.04-11.30.55:633][238]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2023.10.04-11.30.55:633][238]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2023.10.04-11.30.55:633][238]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2023.10.04-11.30.55:633][238]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.10.04-11.30.55:633][238]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.10.04-11.30.55:714][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.04-11.30.56:855][292]Job is a success!
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:      Bricks at depth
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:          1: 8.5% covering 6.2% of volume
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:          2: 89.4% covering 1.0% of volume
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:      Bricks in each level
+[2023.10.04-11.30.56:947][293]LogVolumetricLightmapImport:          Map 			 47 bricks 	 100.0% (Persistent Level)
+[2023.10.04-11.30.56:990][293]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2023.10.04-11.30.56:990][293]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2023.10.04-11.30.56:990][293]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2023.10.04-11.30.56:990][293]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2023.10.04-11.30.56:990][293]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2023.10.04-11.30.56:990][293]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X64)
+[2023.10.04-11.30.56:990][293]Lightmass on IDENCRY: 757 ms total, 191 ms importing, 28 ms setup, 89 ms photons, 410 ms processing, 0 ms extra exporting [14/14 mappings]. Threads: 6.15 sec total, 486 ms processing.
+[2023.10.04-11.30.56:991][293]LogStaticLightingSystem: Map_BuiltData storing lightmap data for 14 meshes in 2 LightmapResourceClusters (7.0 Meshes per cluster).
+[2023.10.04-11.30.56:994][293]LogMaterial: Display: Material /Game/BlueMaterial.BlueMaterial needed to have new flag set bUsedWithStaticLighting !
+[2023.10.04-11.30.56:995][293]LogMaterial: Display: Material /Engine/Transient.BlueMaterial needed to have new flag set bUsedWithStaticLighting !
+[2023.10.04-11.30.56:995][293]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A5C7E891A4A32B9E3043ECB7B28B298B8ED02F6C), compiling. 
+[2023.10.04-11.30.57:003][293]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Normal' priority
+[2023.10.04-11.30.57:003][293]LogMaterial: Display: Missing cached shadermap for BlueMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 63A31A3A0D149DC664007B75026E668542A7AED0), compiling. 
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Submitted 7 shader compile jobs with 'Low' priority
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2023.10.04-11.30.57:021][293]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.10.04-11.30.57:027][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.04-11.30.57:073][293]LogStaticLightingSystem: Illumination: 5.92 sec (13 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2023.10.04-11.30.57:073][293]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2023.10.04-11.30.57:073][293]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.10.04-11.30.58:070][293]DumpUnbuiltLightIteractions
+[2023.10.04-11.30.58:070][293]Lights with unbuilt interactions: 0
+[2023.10.04-11.30.58:070][293]
+[2023.10.04-11.30.58:070][293]Primitives with unbuilt interactions: 0
+[2023.10.04-11.30.58:117][293]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.10.04-11.30.58:148][294]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.10.04-11.30.58:148][294]MapCheck: New page: Map - 4 жовт. 2023 р., 17:30:58
+[2023.10.04-11.30.58:152][294]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,642ms to complete.
+[2023.10.04-11.30.58:152][294]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.10.04-11.30.58:152][294]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2023.10.04-11.30.58:152][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.10.04-11.30.58:152][294]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.10.04-11.30.58:152][294]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.04-11.31.10:180][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.04-11.31.10:185][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.04-11.31.10:192][ 15]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/MapE04205B74720B576D413948D12094D50.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map.umap'
+[2023.10.04-11.31.10:195][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_BuiltData" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset" SILENT=true
+[2023.10.04-11.31.10:204][ 15]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/Map_BuiltDataB4B95BD04FAF9310B4D3CC81073E864C.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/Map_BuiltData.uasset'
+[2023.10.04-11.31.10:216][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-11.31.10:216][ 15]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map_BuiltData.Map_BuiltData
+[2023.10.04-11.31.10:216][ 15]LogContentValidation: Display: Validating World /Game/Map.Map
+[2023.10.04-11.31.10:710][ 45]LogMaterialEditor: Saving and Compiling material BlueMaterial
+[2023.10.04-11.31.10:721][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueMaterial" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/BlueMaterial.uasset" SILENT=true
+[2023.10.04-11.31.10:723][ 45]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/BlueMaterial51CF94254853DB0E5CEA3FBC5622C12F.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/BlueMaterial.uasset'
+[2023.10.04-11.31.10:737][ 45]AssetCheck: New page: Asset Save: BlueMaterial
+[2023.10.04-11.31.10:737][ 45]LogContentValidation: Display: Validating Material /Game/BlueMaterial.BlueMaterial
+[2023.10.04-11.31.10:993][ 61]LogMaterialEditor: Saving and Compiling material BlueMaterial
+[2023.10.04-11.31.11:020][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BlueMaterial" FILE="../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/BlueMaterial.uasset" SILENT=true
+[2023.10.04-11.31.11:022][ 61]LogSavePackage: Moving '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Saved/BlueMaterialD056D43A4B93814A8D21429515F223DB.tmp' to '../../../../../Users/dimas/OneDrive/Dokumenty/Unreal Projects/Ping_pongB/Content/BlueMaterial.uasset'
+[2023.10.04-11.31.11:038][ 61]AssetCheck: New page: Asset Save: BlueMaterial
+[2023.10.04-11.31.11:038][ 61]LogContentValidation: Display: Validating Material /Game/BlueMaterial.BlueMaterial
